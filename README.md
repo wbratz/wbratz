@@ -3,7 +3,7 @@
 see more at www.williambratz.com
 
 <p align="center">
-  <img height="200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wbratz&&custom_title=Languages&hide=Assembly,Java&bg_color=202020&title_color=steelblue&text_color=fff" />
+  <img height="200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wbratz&&custom_title=Languages&hide=Assembly,Java,SqlPL&bg_color=202020&title_color=steelblue&text_color=fff" />
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=wbratz&custom_title=My%20Stats&bg_color=202020&title_color=steelblue&text_color=fff&show_icons=true&icon_color=2787db" />
 </p>
 
