@@ -1,6 +1,8 @@
 ### Hi, Billy here! 👋
 
-see more at www.williambratz.com
+Check out my person website at www.williambratz.com I use it for the occasional blog post and general development playground. I've recently been using it to try to recreate popular front end functionality myself, like side bar animations and parallax. 
+
+For a more refined project, checkout www.NeverendingStoryPointer.com my planning poker web app. That utilized gRpc and Blazor to stream content to multiple users.
 
 <p align="center">
   <img height="200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wbratz&&custom_title=Languages&hide=Assembly,Java,SqlPL&bg_color=202020&title_color=steelblue&text_color=fff" />
