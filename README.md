@@ -6,13 +6,13 @@ For a more refined project, checkout www.NeverendingStoryPointer.com my planning
 
 Some features include:
   Real time pointing
-  ![Pointing Demo](https://imgur.com/LZgro6A)
+  ![Pointing Demo](https://i.imgur.com/LZgro6A.gif)
   
   Admin managed story information
-  ![Story info demo](https://imgur.com/WUQI4uB)
+  ![Story info demo](https://i.imgur.com/WUQI4uB.gif)
   
   Stopwatch synced across users
-  ![Stopwatch demo](https://imgur.com/fHnlJi7)
+  ![Stopwatch demo](https://i.imgur.com/fHnlJi7.gif)
   
   Pointing history
   ![History demo](https://i.imgur.com/4ih5pDy.gif)
