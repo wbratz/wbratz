@@ -15,7 +15,7 @@ Some features include:
   ![Stopwatch demo](https://imgur.com/fHnlJi7)
   
   Pointing history
-  ![Stopwatch demo](https://imgur.com/4ih5pDy)
+  ![History demo](https://i.imgur.com/4ih5pDy.gif)
 
 <p align="center">
   <img height="200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wbratz&&custom_title=Languages&hide=Assembly,Java,SqlPL&bg_color=202020&title_color=steelblue&text_color=fff" />
