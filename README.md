@@ -1,8 +1,8 @@
 ### Hi, Billy here! 👋
 
-Check out my person website at www.williambratz.com I use it for the occasional blog post and general development playground. I've recently been using it to try to recreate popular front end functionality myself, like side bar animations and parallax. 
+Check out my personal website at www.williambratz.com I use it for the occasional blog post and general development playground. I've recently been using it to try to recreate popular front end functionality myself, like side bar animations and parallax. It's running in heroku built with Next.JS
 
-For a more refined project, checkout www.NeverendingStoryPointer.com my planning poker web app. That utilizes gRpc and Blazor to stream content to multiple users.
+For a more refined project, checkout www.NeverendingStoryPointer.com my planning poker web app. That utilizes gRpc and Blazor to stream content to multiple users. This application is running in an azure app service with CI/CD through github actions that push new releases on merge to master to Azure container registry (ACR)
 
 Some features include:
   Real time pointing
